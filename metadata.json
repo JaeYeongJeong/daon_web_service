@@ -1,0 +1,8 @@
+{
+  "name": "AI 면접 시뮬레이터",
+  "description": "이력서와 채용 공고 분석을 통해 나만의 맞춤형 모의 면접을 진행하고, 정밀 피드백을 받아 역량을 강화하는 AI 면접관 서비스입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
